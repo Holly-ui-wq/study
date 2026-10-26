@@ -1,0 +1,1 @@
+<script setup>import NavItem from './NavItem.vue';</script><template><aside class="sidebar"><p class="caption">学习空间</p><nav><NavItem to="/" icon="☑" label="今日计划"/><NavItem to="/stats" icon="▥" label="学习统计"/><NavItem to="/goals" icon="◎" label="我的目标"/></nav><div class="side-tip"><b>♡ 给努力的你</b><p>不必一次做到完美，只要每天前进一点点。</p></div></aside></template>

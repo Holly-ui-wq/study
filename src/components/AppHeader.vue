@@ -1,0 +1,1 @@
+<template><header class="topbar"><RouterLink to="/" class="brand"><span class="logo">🎓</span><span><b>Study Buddy</b><small>你的专属学习搭子</small></span></RouterLink><span class="header-message">✦ 今天也要进步一点点！</span><span class="date-pill">☼ 每一天都算数</span></header></template>

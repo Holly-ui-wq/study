@@ -1,0 +1,1 @@
+<script setup>defineProps({to:String,icon:String,label:String})</script><template><RouterLink :to="to" class="nav-item" exact-active-class="active"><span>{{icon}}</span>{{label}}</RouterLink></template>

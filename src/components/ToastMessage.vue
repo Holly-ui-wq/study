@@ -1,0 +1,1 @@
+<script setup>defineProps({message:String})</script><template><Transition name="toast"><div v-if="message" class="toast">✓ {{message}}</div></Transition></template>

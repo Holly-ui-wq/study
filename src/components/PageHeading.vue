@@ -1,0 +1,1 @@
+<script setup>defineProps({eyebrow:String,title:String,subtitle:String})</script><template><div class="heading"><small>{{eyebrow}}</small><h1>{{title}}</h1><p>{{subtitle}}</p></div></template>

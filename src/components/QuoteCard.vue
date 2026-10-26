@@ -1,0 +1,1 @@
+<script setup>defineProps({quote:{type:String,default:'你不必一口气走完所有路，只要不停下脚步。'},author:{type:String,default:'给今天努力的你'}})</script><template><aside class="quote"><span>❝</span><p>{{quote}}</p><small>— {{author}}</small></aside></template>
